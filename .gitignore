@@ -1,3 +1,5 @@
 .idea
 .gitignore
 evil_ai.iml
+.DS_Store
+/samples/*
